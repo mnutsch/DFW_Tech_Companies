@@ -23,6 +23,31 @@ Bottle Rocket - ? <br/>
 Artisans Collaborative - ? <br/>
 Ardent Creative - Fort Worth, TX <br/>
 Improving Enterprises - Richardson, TX <br/>
+Impiger Technologies - ?<br/>
+Magic Logix - Dallas, TX<br/>
+Runner - Dallas, TX<br/>
+MODassic Marketing - Dallas, TX<br/>
+Ride for the Brand - Dallas, TX<br/>
+422 Studios - Fort Worth, TX<br/>
+The Old State - Dallas, TX<br/>
+Simple Media - Addison, TX<br/>
+Atomic Design - Plano, TX<br/>
+Lifeblue - Allen, TX<br/>
+Wve Labs - Dallas, TX<br/>
+Five Pack Creative - Frisco, TX<br/>
+Flexsin Inc - Dallas, TX (outsourced?)<br/>
+Ventuso LLC - Dallas, TX<br/>
+AppShark Software- Dallas, TX<br/>
+Think Tree Studios - McKinney, TX<br/>
+Software Allies - Dallas, TX<br/>
+[x]CubeLabs - Dallas, TX<br/>
+Lift - McKinney, TX<br/>
+Techgene - Irving, TX (outsourced?)<br/>
+Chetu Inc - Plano, TX<br/>
+SevenTablets - Addison, TX<br/>
+Digiture - Grapevine, TX<br/>
+Glint Advertising - Dallas, TX<br/>
+Ellipsis Infotech - Dallas, TX (outsourced?)<br/>
 
 <strong>Non-tech Companies with Software Dev employees:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
