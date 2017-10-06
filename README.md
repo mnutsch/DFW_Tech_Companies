@@ -4,6 +4,7 @@ Last updated: 10-6-2017
 
 <strong>Tech/SAAS/eCommerce Companies:</strong> <br/>
 Sabre - ?<br/>
+R3Pi / Solera - ?<br/>
 Blue Star Sports - Frisco, TX <br/>
 Alkami - Plano, TX <br/>
 Axxess - Dallas, TX (North) <br/>
