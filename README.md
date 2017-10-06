@@ -33,6 +33,7 @@ Dealertrack Technologies - Dallas, TX<br/>
 Inuit - Plano, TX<br/>
 Ooyala - Plano, TX<br/>
 Concur Technologies - Allen, TX<br/>
+Bloomreach - Dallas, TX<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 PMG - Fort Worth, TX <br/>
