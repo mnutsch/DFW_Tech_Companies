@@ -5,7 +5,7 @@ Last updated: 10-6-2017
 <strong>Tech/SAAS/eCommerce Companies:</strong> <br/>
 Sabre - ?<br/>
 Blue Star Sports - Frisco, TX <br/>
-Alkami - Plano, TX< br/>
+Alkami - Plano, TX <br/>
 Axxess - Dallas, TX (North) <br/>
 Elevate / Think Finance - Fort Worth, TX <br/>
 Woot.com (Amazon) - Carrolton, TX <br/>
