@@ -13,6 +13,16 @@ Woot.com (Amazon) - Carrolton, TX <br/>
 Match.com - Dallas, TX <br/>
 Intuit - Plano, TX <br/>
 ECi Software - Fort Worth, TX <br/>
+ACTIVE Network - Dallas, TX <br/>
+InvoiceCare - Dallas, TX <br/>
+Sifter - Grapevine, TX <br/>
+DoctorLogic - Plano, Tx <br/>
+Blinksale - Dallas, TX <br/>
+RealPage - Richardson, TX <br/>
+SiSTeR Technologies - Dallas <br/>
+Lanyon - DAllas <br/>
+Church Media Group - Keller, TX <br/>
+YourCase - Carrollton, TX <br/>
 
 <strong>Web Design/Digital Marketing Firms:</strong> <br/>
 PMG - Fort Worth, TX <br/>
