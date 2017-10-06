@@ -70,7 +70,7 @@ Digiture - Grapevine, TX<br/>
 Glint Advertising - Dallas, TX<br/>
 Ellipsis Infotech - Dallas, TX (outsourced?)<br/>
 
-<strong>Non-tech Companies with Software Dev employees:</strong> <br/>
+<strong>Non-tech Companies with Software Dev departments:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
 Bank of America - ? <br/>
 Verizon - Irving, TX <br/>
