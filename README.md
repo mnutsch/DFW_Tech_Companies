@@ -25,6 +25,7 @@ Verizon - Irving, TX <br/>
 Walmart (eCommerce) -  <br/>
 Vista Proppants- Granbury, TX <br/>
 Lockheed Martin - Fort Worth, TX <br/>
+Northropp Grumman - Fort Worth, TX <br/>
 Raytheon - ?Richardson, TX? <br/>
 GM Financial - Irving, TX <br/>
 Canyon Ranch - Fort Worth, TX <br/>
