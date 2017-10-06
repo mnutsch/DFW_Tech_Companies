@@ -2,31 +2,31 @@
 This is a crowdsourced list of Tech Companies/Employers in the Dallas-Fort Worth metro.
 
 
-Tech/SAAS/eCommerce Companies:
-Sabre - 
-Blue Star Sports - Frisco, TX
-Alkami - Plano, TX
-Axxess - Dallas, TX (North)
-Elevate / Think Finance - Fort Worth, TX
-Woot.com (Amazon) - Carrolton, TX
+Tech/SAAS/eCommerce Companies: <br/>
+Sabre - <br/>
+Blue Star Sports - Frisco, TX <br/>
+Alkami - Plano, TX< br/>
+Axxess - Dallas, TX (North) <br/>
+Elevate / Think Finance - Fort Worth, TX <br/>
+Woot.com (Amazon) - Carrolton, TX <br/>
 
-Web Design/Digital Marketing Firms:
-PMG - Fort Worth, TX
-Dialexa - Dallas, TX
-LionsMouth Digital - ?
-Oven Bits - ?
-Copper Mobile - ? 
-Bottle Rocket - ?
+Web Design/Digital Marketing Firms: <br/>
+PMG - Fort Worth, TX <br/>
+Dialexa - Dallas, TX <br/>
+LionsMouth Digital - ? <br/>
+Oven Bits - ? <br/>
+Copper Mobile - ? <br/>
+Bottle Rocket - ? <br/>
 
-Non-tech Companies with Software Dev employees:
-Capital One - Dallas, TX (North)
-Bank of America - ?
-Verizon - Irving, TX
-Walmart (eCommerce) - 
-Vista Proppants- Granbury, TX
-Lockheed Martin - Fort Worth, TX
-Raytheon - ?Richardson, TX?
-GM Financial - Irving, TX
-Canyon Ranch - Fort Worth, TX
+Non-tech Companies with Software Dev employees: <br/>
+Capital One - Dallas, TX (North) <br/>
+Bank of America - ? <br/>
+Verizon - Irving, TX <br/>
+Walmart (eCommerce) -  <br/>
+Vista Proppants- Granbury, TX <br/>
+Lockheed Martin - Fort Worth, TX <br/>
+Raytheon - ?Richardson, TX? <br/>
+GM Financial - Irving, TX <br/>
+Canyon Ranch - Fort Worth, TX <br/>
 
 
