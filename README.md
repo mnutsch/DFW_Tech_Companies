@@ -1,7 +1,7 @@
 # DFW_Tech_Companies_-_Employers
 This is a crowd-sourced list of Tech Companies/Employers in the Dallas-Fort Worth metro.
 
-Tech/SAAS/eCommerce Companies: <br/>
+<strong>Tech/SAAS/eCommerce Companies:</strong> <br/>
 Sabre - ?<br/>
 Blue Star Sports - Frisco, TX <br/>
 Alkami - Plano, TX< br/>
@@ -12,7 +12,7 @@ Match.com - Dallas, TX <br/>
 Intuit - Plano, TX <br/>
 ECi Software - Fort Worth, TX <br/>
 
-Web Design/Digital Marketing Firms: <br/>
+<strong>Web Design/Digital Marketing Firms:</strong> <br/>
 PMG - Fort Worth, TX <br/>
 Dialexa - Dallas, TX <br/>
 LionsMouth Digital - ? <br/>
@@ -22,7 +22,7 @@ Bottle Rocket - ? <br/>
 Artisans Collaborative - ? <br/>
 Ardent Creative - Fort Worth, TX <br/>
 
-Non-tech Companies with Software Dev employees: <br/>
+<strong>Non-tech Companies with Software Dev employees:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
 Bank of America - ? <br/>
 Verizon - Irving, TX <br/>
