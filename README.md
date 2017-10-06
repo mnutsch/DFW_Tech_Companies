@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies/Employers in the Dallas-Fort Worth metro.<br/>
 Last updated: 10-6-2017
 
-<strong>Tech/SAAS/eCommerce Companies:</strong> <br/>
+<strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - ?<br/>
 R3Pi / Solera - ?<br/>
 Blue Star Sports - Frisco, TX <br/>
@@ -23,6 +23,13 @@ SiSTeR Technologies - Dallas <br/>
 Lanyon - DAllas <br/>
 Church Media Group - Keller, TX <br/>
 YourCase - Carrollton, TX <br/>
+ActivTrack - Dallas, TX<br/>
+
+<strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
+Dealertrack Technologies - Dallas, TX<br/>
+Inuit - Plano, TX<br/>
+Ooyala - Plano, TX<br/>
+Concur Technologies - Allen, TX<br/>
 
 <strong>Web Design/Digital Marketing Firms:</strong> <br/>
 PMG - Fort Worth, TX <br/>
