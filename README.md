@@ -26,6 +26,7 @@ YourCase - Carrollton, TX <br/>
 ActivTrack - Dallas, TX<br/>
 PestRoutes - McKinney, TX<br/>
 NoiseAware - Dallas, TX<br/>
+Groove Jones - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
