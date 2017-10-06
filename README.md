@@ -1,5 +1,6 @@
 # DFW_Tech_Companies_-_Employers
-This is a crowd-sourced list of Tech Companies/Employers in the Dallas-Fort Worth metro.
+This is a curated list of Tech Companies/Employers in the Dallas-Fort Worth metro.
+Last updated: 10-6-2017
 
 <strong>Tech/SAAS/eCommerce Companies:</strong> <br/>
 Sabre - ?<br/>
