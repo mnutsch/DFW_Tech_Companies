@@ -22,6 +22,7 @@ Copper Mobile - ? <br/>
 Bottle Rocket - ? <br/>
 Artisans Collaborative - ? <br/>
 Ardent Creative - Fort Worth, TX <br/>
+Improving Enterprises - Richardson, TX <br/>
 
 <strong>Non-tech Companies with Software Dev employees:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
