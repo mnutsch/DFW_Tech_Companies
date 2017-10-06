@@ -19,6 +19,7 @@ Oven Bits - ? <br/>
 Copper Mobile - ? <br/>
 Bottle Rocket - ? <br/>
 Artisans Collaborative - ? <br/>
+Ardent Creative - Fort Worth, TX <br/>
 
 Non-tech Companies with Software Dev employees: <br/>
 Capital One - Dallas, TX (North) <br/>
