@@ -34,7 +34,7 @@ Inuit - Plano, TX<br/>
 Ooyala - Plano, TX<br/>
 Concur Technologies - Allen, TX<br/>
 
-<strong>Web Design/Digital Marketing Firms:</strong> <br/>
+<strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 PMG - Fort Worth, TX <br/>
 Dialexa - Dallas, TX <br/>
 LionsMouth Digital - ? <br/>
