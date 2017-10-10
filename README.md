@@ -47,6 +47,7 @@ Kimbia - ?<br/>
 Deltek - Richardson, TX<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
+Lifeblue - McKinney, TX<br/>
 PMG - Fort Worth, TX <br/>
 Dialexa - Dallas, TX <br/>
 LionsMouth Digital - ? <br/>
@@ -86,6 +87,7 @@ Data Bakery - Dallas, TX <br/>
 Levelten Interactive - Dallas, TX<br/>
 Kod Technologies - Dallas, TX<br/>
 10up - Irving, TX<br/>
+Data Bakery - ?<br/>
 
 <strong>Non-tech Companies with Software Dev departments:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
