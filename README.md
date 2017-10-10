@@ -20,7 +20,7 @@ DoctorLogic - Plano, Tx <br/>
 Blinksale - Dallas, TX <br/>
 RealPage - Richardson, TX <br/>
 SiSTeR Technologies - Dallas <br/>
-Lanyon - DAllas <br/>
+Lanyon - Dallas <br/>
 Church Media Group - Keller, TX <br/>
 YourCase - Carrollton, TX <br/>
 ActivTrack - Dallas, TX<br/>
@@ -33,6 +33,8 @@ Tantrum Street - Dallas, TX<br/>
 Clear C2 - Coppell, TX<br/>
 RoboAmp - Addison, TX<br/>
 Robokind - ?<br/>
+MusicBed.com / FilmSupply - ?<br/>
+Veryable - ?<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
@@ -100,6 +102,8 @@ Six Flags - Arlington, TX <br/>
 7-Eleven corp - Irving, TX <br/>
 Cancer Gene Connect - Dallas, TX <br/>
 ThyssenKrupp Elevator Americas - Frisco, TX <br/>
+Pinnacle Property Management Services - Addison, TX<br/>
+
 
 <strong>Solo-preneurs</strong>
 MacServe.net<br/>
