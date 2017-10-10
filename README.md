@@ -29,6 +29,10 @@ NoiseAware - Dallas, TX<br/>
 Groove Jones - Dallas, TX<br/>
 Munzee - McKinnet, TX<br/>
 DreamCars.com - Dallas, TX<br/>
+Tantrum Street - Dallas, TX<br/>
+Clear C2 - Coppell, TX<br/>
+RoboAmp - Addison, TX<br/>
+Robokind - ?<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
@@ -36,6 +40,9 @@ Inuit - Plano, TX<br/>
 Ooyala - Plano, TX<br/>
 Concur Technologies - Allen, TX<br/>
 Bloomreach - Dallas, TX<br/>
+Salesforce - ? <br/>
+Kimbia - ?<br/>
+Deltek - Richardson, TX<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 PMG - Fort Worth, TX <br/>
@@ -73,6 +80,10 @@ Digiture - Grapevine, TX<br/>
 Glint Advertising - Dallas, TX<br/>
 Ellipsis Infotech - Dallas, TX (outsourced?) <br/>
 422 Studios - Fort Worth, TX <br/>
+Data Bakery - Dallas, TX <br/>
+Levelten Interactive - Dallas, TX<br/>
+Kod Technologies - Dallas, TX<br/>
+10up - Irving, TX<br/>
 
 <strong>Non-tech Companies with Software Dev departments:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
@@ -88,6 +99,18 @@ Canyon Ranch - Fort Worth, TX <br/>
 Six Flags - Arlington, TX <br/>
 7-Eleven corp - Irving, TX <br/>
 Cancer Gene Connect - Dallas, TX <br/>
+ThyssenKrupp Elevator Americas - Frisco, TX <br/>
+
+<strong>Solo-preneurs</strong>
+MacServe.net<br/>
+SettleIt.org<br/>
+GivingGreat<br/>
+LarkSpark Corp<br/>
+Axelum Tech<br/>
+
+<strong>Co-working Spaces/Accelerators</strong>
+Nod Coworking<br/>
+Tech Fort Worth<br/>
 
 
 
