@@ -27,6 +27,7 @@ ActivTrack - Dallas, TX<br/>
 PestRoutes - McKinney, TX<br/>
 NoiseAware - Dallas, TX<br/>
 Groove Jones - Dallas, TX<br/>
+Munzee - McKinnet, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
@@ -69,7 +70,8 @@ Chetu Inc - Plano, TX<br/>
 SevenTablets - Addison, TX<br/>
 Digiture - Grapevine, TX<br/>
 Glint Advertising - Dallas, TX<br/>
-Ellipsis Infotech - Dallas, TX (outsourced?)<br/>
+Ellipsis Infotech - Dallas, TX (outsourced?) <br/>
+422 Studios - Fort Worth, TX <br/>
 
 <strong>Non-tech Companies with Software Dev departments:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
@@ -84,6 +86,8 @@ GM Financial - Irving, TX <br/>
 Canyon Ranch - Fort Worth, TX <br/>
 Six Flags - Arlington, TX <br/>
 7-Eleven corp - Irving, TX <br/>
+Cancer Gene Connect - Dallas, TX <br/>
+
 
 
 
