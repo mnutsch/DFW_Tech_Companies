@@ -1,6 +1,6 @@
 # DFW_Tech_Companies
 This is a curated list of Tech Companies/Employers in the Dallas-Fort Worth metro.<br/>
-Last updated: 10-6-2017
+Last updated: 10-10-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - ?<br/>
