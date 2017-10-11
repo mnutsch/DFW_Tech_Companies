@@ -107,14 +107,14 @@ ThyssenKrupp Elevator Americas - Frisco, TX <br/>
 Pinnacle Property Management Services - Addison, TX<br/>
 
 
-<strong>Solo-preneurs</strong>
+<strong>Solo-preneurs</strong><br/>
 MacServe.net<br/>
 SettleIt.org<br/>
 GivingGreat<br/>
 LarkSpark Corp<br/>
 Axelum Tech<br/>
 
-<strong>Co-working Spaces/Accelerators</strong>
+<strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
 Tech Fort Worth<br/>
 
