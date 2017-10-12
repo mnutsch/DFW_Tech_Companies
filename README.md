@@ -89,6 +89,7 @@ Levelten Interactive - Dallas, TX<br/>
 Kod Technologies - Dallas, TX<br/>
 10up - Irving, TX<br/>
 Data Bakery - ?<br/>
+Social Factor - Fort Worth, TX<br/>
 
 <strong>Non-tech Companies with Software Dev departments:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
