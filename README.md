@@ -34,7 +34,11 @@ Clear C2 - Coppell, TX<br/>
 RoboAmp - Addison, TX<br/>
 Robokind - ?<br/>
 MusicBed.com / FilmSupply - ?<br/>
-Veryable - ?<br/>
+Veryable - Dallas, TX<br/>
+Texas Instruments - Dallas, TX<br/>
+Electronic Data Systems (HP) - Plano, TX<br/>
+Softlayer (IBM) - Dallas, TX<br/>
+Massergy Communications - Plano, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
@@ -46,6 +50,7 @@ Salesforce - ? <br/>
 Kimbia - ?<br/>
 Deltek - Richardson, TX<br/>
 Dealer.com - Dallas, TX<br/>
+Hotels.com (Expedia) - ?<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Lifeblue - McKinney, TX<br/>
@@ -108,7 +113,6 @@ Cancer Gene Connect - Dallas, TX <br/>
 ThyssenKrupp Elevator Americas - Frisco, TX <br/>
 Pinnacle Property Management Services - Addison, TX<br/>
 
-
 <strong>Solo-preneurs</strong><br/>
 MacServe.net<br/>
 SettleIt.org<br/>
@@ -119,7 +123,20 @@ Axelum Tech<br/>
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
 Tech Fort Worth<br/>
+Dallas Entrepreneur Center (DEC) / Capitol Factory<br/>
+REVTECH Accelerator<br/>
+Health Wildcatters<br/>
+Tech Wildcatters<br/>
+Co-Build<br/>
+CodeLaunch<br/>
 
+<strong>VC Funds/Angel Groups</strong><br/>
+Cowtown Angels<br/>
+Naya Ventures<br/>
+Interlock Ventures<br/>
+Deep Space Ventures<br/>
+North Texas Angel Network<br/>
+Dallas Angel Network<br/>
 
 
 
