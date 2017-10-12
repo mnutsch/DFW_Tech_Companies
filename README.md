@@ -1,6 +1,6 @@
 # DFW_Tech_Companies
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
-Last updated: 10-10-2017
+Last updated: 10-12-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - ?<br/>
@@ -45,6 +45,7 @@ Bloomreach - Dallas, TX<br/>
 Salesforce - ? <br/>
 Kimbia - ?<br/>
 Deltek - Richardson, TX<br/>
+Dealer.com - Dallas, TX<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Lifeblue - McKinney, TX<br/>
