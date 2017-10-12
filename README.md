@@ -36,8 +36,6 @@ Robokind - ?<br/>
 MusicBed.com / FilmSupply - ?<br/>
 Veryable - Dallas, TX<br/>
 Texas Instruments - Dallas, TX<br/>
-Electronic Data Systems (HP) - Plano, TX<br/>
-Softlayer (IBM) - Dallas, TX<br/>
 Massergy Communications - Plano, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
@@ -51,6 +49,8 @@ Kimbia - ?<br/>
 Deltek - Richardson, TX<br/>
 Dealer.com - Dallas, TX<br/>
 Hotels.com (Expedia) - ?<br/>
+Electronic Data Systems (HP) - Plano, TX<br/>
+Softlayer (IBM) - Dallas, TX<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Lifeblue - McKinney, TX<br/>
