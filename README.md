@@ -137,6 +137,7 @@ Interlock Ventures<br/>
 Deep Space Ventures<br/>
 North Texas Angel Network<br/>
 Dallas Angel Network<br/>
+Intelis Capital<br/>
 
 
 
