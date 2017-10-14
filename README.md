@@ -95,6 +95,8 @@ Kod Technologies - Dallas, TX<br/>
 10up - Irving, TX<br/>
 Data Bakery - ?<br/>
 Social Factor - Fort Worth, TX<br/>
+900lbs of Creative<br/>
+Reel FX<br/>
 
 <strong>Non-tech Companies with Software Dev departments:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
@@ -122,7 +124,7 @@ Controlled Chaos Media<br/>
 Escalation Studios<br/>
 Game Circus<br/>
 Gearbox Software<br/>
-id<br/>
+id Software<br/>
 Jovian Minds<br/>
 KingsIsle Entertainment Ltd.<br/>
 Method Solutions<br/>
