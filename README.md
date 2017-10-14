@@ -1,6 +1,6 @@
 # DFW_Tech_Companies
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
-Last updated: 10-12-2017
+Last updated: 10-14-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - ?<br/>
@@ -112,6 +112,29 @@ Six Flags - Arlington, TX <br/>
 Cancer Gene Connect - Dallas, TX <br/>
 ThyssenKrupp Elevator Americas - Frisco, TX <br/>
 Pinnacle Property Management Services - Addison, TX<br/>
+
+<strong>Video Game Companies:</strong><br/>
+3D Realms<br/>
+Blackdot<br/>
+BonusXP<br/>
+Boss Fight Entertainment<br/>
+Controlled Chaos Media<br/>
+Escalation Studios<br/>
+Game Circus<br/>
+Gearbox Software<br/>
+id<br/>
+Jovian Minds<br/>
+KingsIsle Entertainment Ltd.<br/>
+Method Solutions<br/>
+Mumbo Jumbo<br/>
+Nerve Software<br/>
+Perpetual FX Creative<br/>
+Robot Entertainment<br/>
+Sickhead Games<br/>
+Soldak Entertainment<br/>
+Southpeak Games<br/>
+Trptych Games<br/>
+Barking Lizards<br/>
 
 <strong>Solo-preneurs</strong><br/>
 MacServe.net<br/>
