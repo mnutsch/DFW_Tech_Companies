@@ -1,6 +1,6 @@
 # DFW_Tech_Companies
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
-Last updated: 10-14-2017
+Last updated: 10-16-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - ?<br/>
@@ -97,7 +97,7 @@ Data Bakery - ?<br/>
 Social Factor - Fort Worth, TX<br/>
 900lbs of Creative<br/>
 Reel FX<br/>
-Monkedia<br/>
+Monkedia - Irving, TX<br/>
 
 <strong>Non-tech Companies with Software Dev departments:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
