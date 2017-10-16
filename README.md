@@ -97,6 +97,7 @@ Data Bakery - ?<br/>
 Social Factor - Fort Worth, TX<br/>
 900lbs of Creative<br/>
 Reel FX<br/>
+Monkedia<br/>
 
 <strong>Non-tech Companies with Software Dev departments:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
