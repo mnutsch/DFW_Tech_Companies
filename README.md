@@ -1,6 +1,6 @@
 # DFW_Tech_Companies
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
-Last updated: 10-16-2017
+Last updated: 10-19-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - ?<br/>
@@ -11,7 +11,6 @@ Axxess - Dallas, TX (North) <br/>
 Elevate / Think Finance - Fort Worth, TX <br/>
 Woot.com (Amazon) - Carrolton, TX <br/>
 Match.com - Dallas, TX <br/>
-Intuit - Plano, TX <br/>
 ECi Software - Fort Worth, TX <br/>
 ACTIVE Network - Dallas, TX <br/>
 InvoiceCare - Dallas, TX <br/>
@@ -51,6 +50,7 @@ Dealer.com - Dallas, TX<br/>
 Hotels.com (Expedia) - ?<br/>
 Electronic Data Systems (HP) - Plano, TX<br/>
 Softlayer (IBM) - Dallas, TX<br/>
+Intuit - Plano, TX <br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Lifeblue - McKinney, TX<br/>
