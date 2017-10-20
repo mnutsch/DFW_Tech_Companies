@@ -153,7 +153,7 @@ Estimake<br/>
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
 Tech Fort Worth<br/>
-Dallas Entrepreneur Center (DEC) / Capitol Factory<br/>
+Dallas Entrepreneur Center (DEC) / Capital Factory<br/>
 REVTECH Accelerator<br/>
 Health Wildcatters<br/>
 Tech Wildcatters<br/>
