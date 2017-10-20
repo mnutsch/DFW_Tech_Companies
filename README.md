@@ -62,7 +62,7 @@ PMG - Fort Worth, TX <br/>
 Dialexa - Dallas, TX <br/>
 LionsMouth Digital - ? <br/>
 Oven Bits - ? <br/>
-Copper Mobile - ? <br/>
+Copper Mobile - Dallas, TX <br/>
 Bottle Rocket - ? <br/>
 Artisans Collaborative - ? <br/>
 Ardent Creative - Fort Worth, TX <br/>
