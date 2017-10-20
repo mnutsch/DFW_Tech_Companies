@@ -1,6 +1,6 @@
 # DFW_Tech_Companies
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
-If you notice any companies missing or incorrect info, then message me and I will update the list.<br/>
+If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
 Last updated: 10-20-2017
 
