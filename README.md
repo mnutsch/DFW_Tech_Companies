@@ -140,12 +140,13 @@ Southpeak Games<br/>
 Trptych Games<br/>
 Barking Lizards<br/>
 
-<strong>Solo-preneurs</strong><br/>
+<strong>Small Startups <em>(less than 5 employees)<em/> / Solo-preneurs</strong><br/>
 MacServe.net<br/>
 SettleIt.org<br/>
 GivingGreat<br/>
 LarkSpark Corp<br/>
 Axelum Tech<br/>
+Estimake<br/>
 
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
