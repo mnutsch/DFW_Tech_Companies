@@ -39,6 +39,7 @@ Veryable - Dallas, TX<br/>
 Texas Instruments - Dallas, TX<br/>
 Massergy Communications - Plano, TX<br/>
 PayCor - Frisco, TX<br/>
+Simpli.Fi - Fort Worth, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
