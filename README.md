@@ -103,23 +103,6 @@ Social Factor - Fort Worth, TX<br/>
 Reel FX<br/>
 Monkedia - Irving, TX<br/>
 
-<strong>Non-tech Companies with Software Dev departments:</strong> <br/>
-Capital One - Dallas, TX (North) <br/>
-Bank of America - ? <br/>
-Verizon - Irving, TX <br/>
-Walmart (eCommerce) -  <br/>
-Vista Proppants- Granbury, TX <br/>
-Lockheed Martin - Fort Worth, TX <br/>
-Northropp Grumman - Fort Worth, TX <br/>
-Raytheon - ?Richardson, TX? <br/>
-GM Financial - Irving, TX <br/>
-Canyon Ranch - Fort Worth, TX <br/>
-Six Flags - Arlington, TX <br/>
-7-Eleven corp - Irving, TX <br/>
-Cancer Gene Connect - Dallas, TX <br/>
-ThyssenKrupp Elevator Americas - Frisco, TX <br/>
-Pinnacle Property Management Services - Addison, TX<br/>
-
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
 Blackdot<br/>
@@ -170,6 +153,23 @@ North Texas Angel Network<br/>
 Dallas Angel Network<br/>
 Intelis Capital<br/>
 
+<strong>Non-tech Companies with Software Dev departments:</strong> <br/>
+Capital One - Dallas, TX (North) <br/>
+Bank of America - ? <br/>
+Verizon - Irving, TX <br/>
+Walmart (eCommerce) -  <br/>
+Vista Proppants- Granbury, TX <br/>
+Lockheed Martin - Fort Worth, TX <br/>
+Northropp Grumman - Fort Worth, TX <br/>
+Raytheon - ?Richardson, TX? <br/>
+GM Financial - Irving, TX <br/>
+Canyon Ranch - Fort Worth, TX <br/>
+Six Flags - Arlington, TX <br/>
+7-Eleven corp - Irving, TX <br/>
+Cancer Gene Connect - Dallas, TX <br/>
+ThyssenKrupp Elevator Americas - Frisco, TX <br/>
+Pinnacle Property Management Services - Addison, TX<br/>
+JC Penny<br/>
 
 
 
