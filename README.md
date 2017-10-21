@@ -40,6 +40,7 @@ Texas Instruments - Dallas, TX<br/>
 Massergy Communications - Plano, TX<br/>
 PayCor - Frisco, TX<br/>
 Simpli.Fi - Fort Worth, TX<br/>
+Toyota Connected<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
@@ -55,6 +56,7 @@ Hotels.com (Expedia) - ?<br/>
 Electronic Data Systems (HP) - Plano, TX<br/>
 Softlayer (IBM) - Dallas, TX<br/>
 Intuit - Plano, TX <br/>
+SAP<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Lifeblue - McKinney, TX<br/>
@@ -170,6 +172,6 @@ Cancer Gene Connect - Dallas, TX <br/>
 ThyssenKrupp Elevator Americas - Frisco, TX <br/>
 Pinnacle Property Management Services - Addison, TX<br/>
 JC Penny<br/>
-
+Toyota<br/>
 
 
