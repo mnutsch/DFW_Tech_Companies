@@ -105,6 +105,7 @@ Social Factor - Fort Worth, TX<br/>
 900lbs of Creative<br/>
 Reel FX<br/>
 Monkedia - Irving, TX<br/>
+Immosis LLC - Dallas, TX (also in Games)<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
@@ -128,6 +129,8 @@ Soldak Entertainment<br/>
 Southpeak Games<br/>
 Trptych Games<br/>
 Barking Lizards<br/>
+Playful Corp. - McKinney, TX<br/>
+Immosis LLC - Dallas, TX (also in web design)<br/>
 
 <strong>Small Startups <em>(less than 5 employees)</em> / Solo-preneurs</strong><br/>
 Cosmunity<br/>
@@ -139,6 +142,7 @@ Axelum Tech<br/>
 Estimake - Fort Worth, TX<br/>
 ModoPayments - Richardson, TX<br/>
 PicPocket - Dallas, TX<br/>
+GravyGravy - Dallas, TX<br/>
 
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
@@ -178,4 +182,8 @@ Pinnacle Property Management Services - Addison, TX<br/>
 JC Penny<br/>
 Toyota<br/>
 
+<strong>Tech Recruiters with Offices in DFW</strong><br/>
+Workbridge Associates<br/>
+TEK Systems<br/>
+Robert Half<br/>
 
