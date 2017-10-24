@@ -135,7 +135,9 @@ SettleIt.org<br/>
 GivingGreat<br/>
 LarkSpark Corp<br/>
 Axelum Tech<br/>
-Estimake<br/>
+Estimake - Fort Worth, TX<br/>
+ModoPayments - Richardson, TX<br/>
+PicPocket - Dallas, TX<br/>
 
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
