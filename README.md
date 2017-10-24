@@ -43,7 +43,7 @@ Simpli.Fi - Fort Worth, TX<br/>
 Toyota Connected<br/>
 ParkHub.com<br/>
 
-<strong>Tech/SAAS/eCommerce Companies (HQ elsewhere):</strong> <br/>
+<strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
 Inuit - Plano, TX<br/>
 Ooyala - Plano, TX<br/>
@@ -159,7 +159,7 @@ North Texas Angel Network<br/>
 Dallas Angel Network<br/>
 Intelis Capital<br/>
 
-<strong>Non-tech Companies with Software Dev departments:</strong> <br/>
+<strong>Non-tech Companies with Software Dev Departments in DFW:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
 Bank of America - ? <br/>
 Verizon - Irving, TX <br/>
