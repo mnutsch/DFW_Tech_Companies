@@ -42,6 +42,7 @@ PayCor - Frisco, TX<br/>
 Simpli.Fi - Fort Worth, TX<br/>
 Toyota Connected<br/>
 ParkHub.com<br/>
+Sigmetrix - McKinney, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
