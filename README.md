@@ -6,7 +6,7 @@ Last updated: 10-26-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
-R3Pi / Solera - ?<br/>
+R3Pi / Solera - Dallas, TX<br/>
 Blue Star Sports - Frisco, TX <br/>
 Alkami - Plano, TX <br/>
 Axxess - Dallas, TX (North) <br/>
