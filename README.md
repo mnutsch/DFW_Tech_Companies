@@ -67,7 +67,7 @@ Dialexa - Dallas, TX <br/>
 LionsMouth Digital - ? <br/>
 Oven Bits - ? <br/>
 Copper Mobile - Dallas, TX <br/>
-Bottle Rocket - ? <br/>
+Bottle Rocket - Dallas, TX <br/>
 Artisans Collaborative - ? <br/>
 Ardent Creative - Fort Worth, TX <br/>
 Improving Enterprises - Richardson, TX <br/>
