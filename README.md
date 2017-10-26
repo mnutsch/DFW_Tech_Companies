@@ -194,3 +194,8 @@ Workbridge Associates<br/>
 TEK Systems<br/>
 Robert Half<br/>
 
+<strong>Companies with Data Centers / Co-Location Facilities in DFW</strong>
+CyrusOne - Dallas, TX<br/>
+Rackspace<br/>
+Facebook<br/>
+T5 Data Centers / Hillwood - Fort Worth, TX<br/>
