@@ -134,7 +134,7 @@ Barking Lizards<br/>
 Playful Corp. - McKinney, TX<br/>
 Immosis LLC - Dallas, TX (also in web design)<br/>
 
-<strong>Computer Security Consultants</strong>
+<strong>Computer Security Consultants</strong><br/>
 Zyston LLC<br/>
 Future Com<br/>
 
