@@ -197,5 +197,5 @@ Robert Half<br/>
 <strong>Companies with Data Centers / Co-Location Facilities in DFW</strong>
 CyrusOne - Dallas, TX<br/>
 Rackspace<br/>
-Facebook<br/>
+Facebook - Fort Worth, TX<br/>
 T5@Alliance (T5 Data Centers / Hillwood) - Fort Worth, TX<br/>
