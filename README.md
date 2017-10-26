@@ -107,6 +107,7 @@ Social Factor - Fort Worth, TX<br/>
 Reel FX<br/>
 Monkedia - Irving, TX<br/>
 Immosis LLC - Dallas, TX (also in Games)<br/>
+Digility - Addison, TX<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
