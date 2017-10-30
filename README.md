@@ -152,6 +152,7 @@ PicPocket - Dallas, TX<br/>
 GravyGravy - Dallas, TX<br/>
 RoboAmp - Richardson, TX<br/>
 lobbyTV - Fort Worth, TX<br/>
+BudgitApp.com<br/>
 
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
