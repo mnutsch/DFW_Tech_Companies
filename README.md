@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 10-30-2017
+Last updated: 11-1-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -153,6 +153,7 @@ GravyGravy - Dallas, TX<br/>
 RoboAmp - Richardson, TX<br/>
 lobbyTV - Fort Worth, TX<br/>
 BudgitApp.com<br/>
+NickelCommerce - Dallas, TX<br/>
 
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
