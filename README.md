@@ -177,7 +177,7 @@ Intelis Capital<br/>
 <strong>Non-tech Companies with Software Dev Departments in DFW:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
 USAA - Plano, TX<br/>
-Bank of America - ? <br/>
+Bank of America - Addison, TX & Plano, TX <br/>
 Verizon - Irving, TX <br/>
 Walmart (eCommerce) -  <br/>
 Vista Proppants- Granbury, TX <br/>
