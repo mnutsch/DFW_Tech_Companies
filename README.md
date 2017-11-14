@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 11-1-2017
+Last updated: 11-14-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -176,6 +176,7 @@ Intelis Capital<br/>
 
 <strong>Non-tech Companies with Software Dev Departments in DFW:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
+USAA - Plano, TX<br/>
 Bank of America - ? <br/>
 Verizon - Irving, TX <br/>
 Walmart (eCommerce) -  <br/>
