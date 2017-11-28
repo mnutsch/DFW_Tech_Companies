@@ -203,7 +203,7 @@ TEK Systems<br/>
 Robert Half<br/>
 Camden Kelly<br/>
 
-<strong>Companies with Data Centers / Co-Location Facilities in DFW</strong>
+<strong>Companies with Data Centers / Co-Location Facilities in DFW</strong><br/>
 CyrusOne - Dallas, TX<br/>
 Rackspace<br/>
 Facebook - Fort Worth, TX<br/>
