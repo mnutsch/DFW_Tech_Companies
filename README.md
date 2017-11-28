@@ -43,7 +43,7 @@ Simpli.Fi - Fort Worth, TX<br/>
 Toyota Connected<br/>
 ParkHub.com<br/>
 Sigmetrix - McKinney, TX<br/>
-Lone Wold Technologies - Dallas, TX<br/>
+Lone Wolf Technologies - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
@@ -59,6 +59,7 @@ Hotels.com (Expedia) - ?<br/>
 Electronic Data Systems (HP) - Plano, TX<br/>
 Softlayer (IBM) - Dallas, TX<br/>
 Intuit - Plano, TX <br/>
+Paycom - Lewisville, TX<br/>
 SAP<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
