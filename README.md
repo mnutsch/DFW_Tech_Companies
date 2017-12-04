@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 11-28-2017
+Last updated: 12-4-2017
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -60,6 +60,7 @@ Electronic Data Systems (HP) - Plano, TX<br/>
 Softlayer (IBM) - Dallas, TX<br/>
 Intuit - Plano, TX <br/>
 Paycom - Lewisville, TX<br/>
+Marketron - North Richland Hills, TX<br/>
 SAP<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
@@ -196,6 +197,7 @@ ThyssenKrupp Elevator Americas - Frisco, TX <br/>
 Pinnacle Property Management Services - Addison, TX<br/>
 JC Penny<br/>
 Toyota<br/>
+USAA<br/>
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
