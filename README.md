@@ -205,9 +205,9 @@ Workbridge Associates<br/>
 TEK Systems<br/>
 Robert Half<br/>
 Camden Kelly<br/>
-The Creative Group, <br/>
-Boss Group,<br/>
-Vitamin T,<br/>
+The Creative Group<br/>
+Boss Group<br/>
+Vitamin T<br/>
 Aquent<br/>
 
 <strong>Companies with Data Centers / Co-Location Facilities in DFW</strong><br/>
