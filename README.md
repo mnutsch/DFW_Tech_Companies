@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 1-2-2018
+Last updated: 1-3-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -205,6 +205,10 @@ Workbridge Associates<br/>
 TEK Systems<br/>
 Robert Half<br/>
 Camden Kelly<br/>
+The Creative Group, <br/>
+Boss Group,<br/>
+Vitamin T,<br/>
+Aquent<br/>
 
 <strong>Companies with Data Centers / Co-Location Facilities in DFW</strong><br/>
 CyrusOne - Dallas, TX<br/>
