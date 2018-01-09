@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 1-3-2018
+Last updated: 1-9-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -44,6 +44,7 @@ Toyota Connected<br/>
 ParkHub.com<br/>
 Sigmetrix - McKinney, TX<br/>
 Lone Wolf Technologies - Dallas, TX<br/>
+Flywheel Building Intelligence - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
