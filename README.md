@@ -46,6 +46,7 @@ Sigmetrix - McKinney, TX<br/>
 Lone Wolf Technologies - Dallas, TX<br/>
 Flywheel Building Intelligence - Dallas, TX<br/>
 MineralWare.com - Fort Worth, TX<br/>
+Stone Eagle - Richardson, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
