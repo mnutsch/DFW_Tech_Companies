@@ -202,6 +202,7 @@ Pinnacle Property Management Services - Addison, TX<br/>
 JC Penny<br/>
 Toyota<br/>
 USAA<br/>
+VPya - Plano, TX</br>
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
@@ -212,6 +213,7 @@ The Creative Group<br/>
 Boss Group<br/>
 Vitamin T<br/>
 Aquent<br/>
+Saxon Global</br>
 
 <strong>Companies with Data Centers / Co-Location Facilities in DFW</strong><br/>
 CyrusOne - Dallas, TX<br/>
