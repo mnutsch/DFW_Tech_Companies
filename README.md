@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 1-26-2018
+Last updated: 1-28-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -66,6 +66,7 @@ Paycom - Lewisville, TX<br/>
 Marketron - North Richland Hills, TX<br/>
 CA Technologies - Plano, TX<br/>
 SAP<br/>
+Bloomreach<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Lifeblue - McKinney, TX<br/>
