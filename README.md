@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 1-28-2018
+Last updated: 2-1-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -47,6 +47,7 @@ Lone Wolf Technologies - Dallas, TX<br/>
 Flywheel Building Intelligence - Dallas, TX<br/>
 MineralWare.com - Fort Worth, TX<br/>
 Stone Eagle - Richardson, TX<br/>
+rewardStyle/LikeToKnowIt.com - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
@@ -118,6 +119,7 @@ Immosis LLC - Dallas, TX (also in Games)<br/>
 Digility - Addison, TX<br/>
 CedarWaters Custom Software - Frisco, TX<br/>
 projekt202 - Addison, TX<br/>
+ForestBits - Dallas, TX<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
