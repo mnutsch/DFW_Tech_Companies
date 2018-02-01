@@ -208,6 +208,7 @@ JC Penny<br/>
 Toyota<br/>
 USAA<br/>
 VPya - Plano, TX</br>
+L3 Technologies - Arlington, TX<br/>
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
