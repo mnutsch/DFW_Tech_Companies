@@ -48,6 +48,7 @@ Flywheel Building Intelligence - Dallas, TX<br/>
 MineralWare.com - Fort Worth, TX<br/>
 Stone Eagle - Richardson, TX<br/>
 rewardStyle/LikeToKnowIt.com - Dallas, TX<br/>
+Project Atlas - Dallasm TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
@@ -209,6 +210,7 @@ Toyota<br/>
 USAA<br/>
 VPya - Plano, TX</br>
 L3 Technologies - Arlington, TX<br/>
+Goldman Sachs<br/>
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
