@@ -48,7 +48,7 @@ Flywheel Building Intelligence - Dallas, TX<br/>
 MineralWare.com - Fort Worth, TX<br/>
 Stone Eagle - Richardson, TX<br/>
 rewardStyle/LikeToKnowIt.com - Dallas, TX<br/>
-Project Atlas - Dallasm TX<br/>
+Project Atlas - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
