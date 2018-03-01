@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 2-3-2018
+Last updated: 3-1-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -49,6 +49,8 @@ MineralWare.com - Fort Worth, TX<br/>
 Stone Eagle - Richardson, TX<br/>
 rewardStyle/LikeToKnowIt.com - Dallas, TX<br/>
 Project Atlas - Dallas, TX<br/>
+Immosis LLC - Dallas, TX<br/>
+Tantrum Street - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Dealertrack Technologies - Dallas, TX<br/>
