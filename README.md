@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 3-1-2018
+Last updated: 3-22-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -41,7 +41,7 @@ Massergy Communications - Plano, TX<br/>
 PayCor - Frisco, TX<br/>
 Simpli.Fi - Fort Worth, TX<br/>
 Toyota Connected<br/>
-ParkHub.com<br/>
+ParkHub.com - Dallas, TX<br/>
 Sigmetrix - McKinney, TX<br/>
 Lone Wolf Technologies - Dallas, TX<br/>
 Flywheel Building Intelligence - Dallas, TX<br/>
@@ -214,6 +214,7 @@ VPya - Plano, TX</br>
 L3 Technologies - Arlington, TX<br/>
 Goldman Sachs<br/>
 Fidelity Investments - Westlake, TX<br/>
+Citigroup
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
