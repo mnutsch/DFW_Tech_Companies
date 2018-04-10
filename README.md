@@ -124,6 +124,7 @@ CedarWaters Custom Software - Frisco, TX<br/>
 projekt202 - Addison, TX<br/>
 ForestBits - Dallas, TX<br/>
 Seven Tablets - Dallas, TX<br/>
+ArtistUprising.com<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
@@ -171,6 +172,13 @@ BudgitApp.com<br/>
 NickelCommerce - Dallas, TX<br/>
 ModoPayments<br/>
 LittleBeetleLabs<br/>
+Roomored.com<br/>
+cruisebe.com<br/>
+balancedmediatechnology.com<br/>
+cleanfinances.com<br/>
+modernmsg.com<br/>
+gruupmeet.com<br/>
+musicbed.com<br/>
 
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
