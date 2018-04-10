@@ -202,7 +202,8 @@ Intelis Capital<br/>
 Toyota AI Ventures<br/>
 
 <strong>Non-tech Companies with Software Dev Departments in DFW:</strong> <br/>
-Capital One - Dallas, TX (North) <br/>
+Rockwell Collins - Richardson, TX<br/>
+Capital One - Plano, TX<br/>
 USAA - Plano, TX<br/>
 Bank of America - Addison, TX & Plano, TX <br/>
 Verizon - Irving, TX <br/>
