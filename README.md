@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 3-22-2018
+Last updated: 4-10-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Sabre - Southlake, TX<br/>
@@ -123,6 +123,7 @@ Digility - Addison, TX<br/>
 CedarWaters Custom Software - Frisco, TX<br/>
 projekt202 - Addison, TX<br/>
 ForestBits - Dallas, TX<br/>
+Seven Tablets - Dallas, TX<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
