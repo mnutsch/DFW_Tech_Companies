@@ -215,7 +215,8 @@ VPya - Plano, TX</br>
 L3 Technologies - Arlington, TX<br/>
 Goldman Sachs<br/>
 Fidelity Investments - Westlake, TX<br/>
-Citigroup
+Citigroup<br/>
+Accenture</br>
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
