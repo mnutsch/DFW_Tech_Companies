@@ -5,6 +5,7 @@ If you notice any companies missing or with incorrect info, then message me and 
 Last updated: 4-10-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
+Project Atlas - Dallas, TX<br/>
 Sabre - Southlake, TX<br/>
 R3Pi / Solera - Dallas, TX<br/>
 Blue Star Sports - Frisco, TX <br/>
@@ -48,7 +49,6 @@ Flywheel Building Intelligence - Dallas, TX<br/>
 MineralWare.com - Fort Worth, TX<br/>
 Stone Eagle - Richardson, TX<br/>
 rewardStyle/LikeToKnowIt.com - Dallas, TX<br/>
-Project Atlas - Dallas, TX<br/>
 Immosis LLC - Dallas, TX<br/>
 Tantrum Street - Dallas, TX<br/>
 
@@ -73,13 +73,13 @@ SAP<br/>
 Bloomreach<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
+Bottle Rocket - Dallas, TX <br/>
+Dialexa - Dallas, TX <br/>
 Lifeblue - McKinney, TX<br/>
 PMG - Fort Worth, TX <br/>
-Dialexa - Dallas, TX <br/>
 LionsMouth Digital - ? <br/>
 Oven Bits - ? <br/>
 Copper Mobile - Dallas, TX <br/>
-Bottle Rocket - Dallas, TX <br/>
 Artisans Collaborative - ? <br/>
 Ardent Creative - Fort Worth, TX <br/>
 Improving Enterprises - Richardson, TX <br/>
@@ -181,6 +181,7 @@ Health Wildcatters<br/>
 Tech Wildcatters<br/>
 Co-Build<br/>
 CodeLaunch<br/>
+WeWork<br/>
 
 <strong>VC Funds/Angel Groups</strong><br/>
 Cowtown Angels<br/>
@@ -190,6 +191,7 @@ Deep Space Ventures<br/>
 North Texas Angel Network<br/>
 Dallas Angel Network<br/>
 Intelis Capital<br/>
+Toyota AI Ventures<br/>
 
 <strong>Non-tech Companies with Software Dev Departments in DFW:</strong> <br/>
 Capital One - Dallas, TX (North) <br/>
@@ -217,6 +219,7 @@ Goldman Sachs<br/>
 Fidelity Investments - Westlake, TX<br/>
 Citigroup<br/>
 Accenture</br>
+Samsung - Frisco, TX</br>
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
