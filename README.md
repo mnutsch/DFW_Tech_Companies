@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 4-10-2018
+Last updated: 4-12-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Project Atlas - Dallas, TX<br/>
@@ -182,14 +182,15 @@ musicbed.com<br/>
 
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
-Tech Fort Worth<br/>
-Dallas Entrepreneur Center (DEC) / Capital Factory<br/>
+Tech Fort Worth - Fort Worth, TX<br/>
+Dallas Entrepreneur Center (DEC) / Capital Factory - Dallas, TX<br/>
 REVTECH Accelerator<br/>
 Health Wildcatters<br/>
 Tech Wildcatters<br/>
 Co-Build<br/>
 CodeLaunch<br/>
 WeWork<br/>
+SMU Incubator - Dallas<br/>
 
 <strong>VC Funds/Angel Groups</strong><br/>
 Cowtown Angels<br/>
