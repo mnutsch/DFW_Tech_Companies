@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 4-12-2018
+Last updated: 4-18-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Project Atlas - Dallas, TX<br/>
