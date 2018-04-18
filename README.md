@@ -7,6 +7,7 @@ Last updated: 4-12-2018
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Project Atlas - Dallas, TX<br/>
 Sabre - Southlake, TX<br/>
+Tyler Technologies - Plano, TX<br/>
 R3Pi / Solera - Dallas, TX<br/>
 Blue Star Sports - Frisco, TX <br/>
 Alkami - Plano, TX <br/>
