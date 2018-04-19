@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 4-18-2018
+Last updated: 4-19-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Project Atlas - Dallas, TX<br/>
@@ -180,6 +180,8 @@ cleanfinances.com<br/>
 modernmsg.com<br/>
 gruupmeet.com<br/>
 musicbed.com<br/>
+swirlds.com<br/>
+coinsource.net<br/>
 
 <strong>Co-working Spaces/Accelerators</strong><br/>
 Nod Coworking<br/>
@@ -231,6 +233,7 @@ Fidelity Investments - Westlake, TX<br/>
 Citigroup<br/>
 Accenture</br>
 Samsung - Frisco, TX</br>
+Borrowworks - Fort Worth</br>
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
