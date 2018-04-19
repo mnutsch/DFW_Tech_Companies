@@ -126,6 +126,7 @@ projekt202 - Addison, TX<br/>
 ForestBits - Dallas, TX<br/>
 Seven Tablets - Dallas, TX<br/>
 ArtistUprising.com<br/>
+DeFakto<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
