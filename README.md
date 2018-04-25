@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 4-19-2018
+Last updated: 4-25-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Project Atlas - Dallas, TX<br/>
@@ -158,7 +158,7 @@ Zyston LLC<br/>
 Future Com<br/>
 
 <strong>Small Startups <em>(less than 5 employees)</em> / Solo-preneurs</strong><br/>
-Cosmunity<br/>
+Fan Guru (FKA Cosmunity)<br/>
 MacServe.net<br/>
 SettleIt.org<br/>
 GivingGreat<br/>
