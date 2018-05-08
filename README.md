@@ -127,6 +127,7 @@ ForestBits - Dallas, TX<br/>
 Seven Tablets - Dallas, TX<br/>
 ArtistUprising.com<br/>
 DeFak.to<br/>
+Credera - Addison, TX<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
