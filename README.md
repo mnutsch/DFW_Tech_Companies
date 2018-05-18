@@ -2,16 +2,17 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 5-8-2018
+Last updated: 5-18-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Project Atlas - Dallas, TX<br/>
-Sabre - Southlake, TX<br/>
 Tyler Technologies - Plano, TX<br/>
+Sabre - Southlake, TX<br/>
+Axxess - Dallas, TX (North) <br/>
 R3Pi / Solera - Dallas, TX<br/>
+Drive.ai - Frisco, TX<br/>
 Blue Star Sports - Frisco, TX <br/>
 Alkami - Plano, TX <br/>
-Axxess - Dallas, TX (North) <br/>
 Elevate / Think Finance - Fort Worth, TX <br/>
 Woot.com (Amazon) - Carrolton, TX <br/>
 Match.com - Dallas, TX <br/>
