@@ -10,7 +10,6 @@ Tyler Technologies - Plano, TX<br/>
 Sabre - Southlake, TX<br/>
 Axxess - Dallas, TX (North) <br/>
 R3Pi / Solera - Dallas, TX<br/>
-Drive.ai - Frisco, TX<br/>
 Blue Star Sports - Frisco, TX <br/>
 Alkami - Plano, TX <br/>
 Elevate / Think Finance - Fort Worth, TX <br/>
@@ -55,6 +54,8 @@ Immosis LLC - Dallas, TX<br/>
 Tantrum Street - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
+Drive.ai - Frisco, TX<br/>
+Oculus VR (Facebook)<br/>
 Dealertrack Technologies - Dallas, TX<br/>
 Inuit - Plano, TX<br/>
 Ooyala - Plano, TX<br/>
