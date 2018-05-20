@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 5-18-2018
+Last updated: 5-20-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Project Atlas - Dallas, TX<br/>
@@ -201,6 +201,7 @@ CodeLaunch<br/>
 WeWork<br/>
 SMU Incubator - Dallas<br/>
 Stadia Ventures - Frisco, TX<br/>
+Ensemble Coworking - Fort Worth, TX<br/>
 
 <strong>VC Funds/Angel Groups</strong><br/>
 Cowtown Angels<br/>
