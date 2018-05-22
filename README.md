@@ -214,6 +214,11 @@ North Texas Angel Network<br/>
 Dallas Angel Network<br/>
 Intelis Capital<br/>
 Toyota AI Ventures<br/>
+Bluescape Energy Parters<br/>
+Delta-v Capital<br/>
+Kitano Capital<br/>
+Mobility Ventures<br/>
+Sevin Rosen Funds<br/>
 
 <strong>Non-tech Companies with Software Dev Departments in DFW:</strong> <br/>
 Rockwell Collins - Richardson, TX<br/>
