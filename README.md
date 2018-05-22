@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 5-20-2018
+Last updated: 5-22-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Project Atlas - Dallas, TX<br/>
@@ -43,7 +43,7 @@ Massergy Communications - Plano, TX<br/>
 PayCor - Frisco, TX<br/>
 Simpli.Fi - Fort Worth, TX<br/>
 Toyota Connected<br/>
-ParkHub.com - Dallas, TX<br/>
+ParkHub.com - Dallas, TX (Deep Ellum<br/>
 Sigmetrix - McKinney, TX<br/>
 Lone Wolf Technologies - Dallas, TX<br/>
 Flywheel Building Intelligence - Dallas, TX<br/>
@@ -52,6 +52,7 @@ Stone Eagle - Richardson, TX<br/>
 rewardStyle/LikeToKnowIt.com - Dallas, TX<br/>
 Immosis LLC - Dallas, TX<br/>
 Tantrum Street - Dallas, TX<br/>
+Door Inc. (doorhomes.com) - Dallas, TX (Uptown)<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Drive.ai - Frisco, TX<br/>
