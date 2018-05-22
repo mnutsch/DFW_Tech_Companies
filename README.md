@@ -53,6 +53,7 @@ rewardStyle/LikeToKnowIt.com - Dallas, TX<br/>
 Immosis LLC - Dallas, TX<br/>
 Tantrum Street - Dallas, TX<br/>
 Door Inc. (doorhomes.com) - Dallas, TX (Uptown)<br/>
+Bestow Inc. - Dallas, TX (Uptown)<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Drive.ai - Frisco, TX<br/>
