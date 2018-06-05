@@ -54,7 +54,7 @@ Immosis LLC - Dallas, TX<br/>
 Tantrum Street - Dallas, TX<br/>
 Door Inc. (doorhomes.com) - Dallas, TX (Uptown)<br/>
 Bestow Inc. - Dallas, TX (Uptown)<br/>
-KubOS - Denton, TX</br>
+KubOS - Denton, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Drive.ai - Frisco, TX<br/>
@@ -243,14 +243,14 @@ Pinnacle Property Management Services - Addison, TX<br/>
 JC Penny<br/>
 Toyota<br/>
 USAA<br/>
-VPya - Plano, TX</br>
+VPya - Plano, TX<br/>
 L3 Technologies - Arlington, TX<br/>
 Goldman Sachs<br/>
 Fidelity Investments - Westlake, TX<br/>
 Citigroup<br/>
-Accenture</br>
-Samsung - Frisco, TX</br>
-Borrowworks - Fort Worth</br>
+Accenture<br/>
+Samsung - Frisco, TX<br/>
+Borrowworks - Fort Worth<br/>
 
 <strong>Tech Recruiters with Offices in DFW</strong><br/>
 Workbridge Associates<br/>
@@ -261,7 +261,8 @@ The Creative Group<br/>
 Boss Group<br/>
 Vitamin T<br/>
 Aquent<br/>
-Saxon Global</br>
+Saxon Global<br/>
+SpringBokIT<br/>
 
 <strong>Companies with Data Centers / Co-Location Facilities in DFW</strong><br/>
 CyrusOne - Dallas, TX<br/>
