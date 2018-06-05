@@ -54,6 +54,7 @@ Immosis LLC - Dallas, TX<br/>
 Tantrum Street - Dallas, TX<br/>
 Door Inc. (doorhomes.com) - Dallas, TX (Uptown)<br/>
 Bestow Inc. - Dallas, TX (Uptown)<br/>
+Kubos - Denton, TX</br>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Drive.ai - Frisco, TX<br/>
