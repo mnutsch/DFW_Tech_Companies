@@ -5,7 +5,7 @@ If you notice any companies missing or with incorrect info, then message me and 
 Last updated: 8-20-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
-Project Atlas - Dallas, TX<br/>
+Bluebeam (formerly Project Atlas) - Dallas, TX<br/>
 Tyler Technologies - Plano, TX<br/>
 Sabre - Southlake, TX<br/>
 Axxess - Dallas, TX (North) <br/>
