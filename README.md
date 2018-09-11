@@ -2,7 +2,7 @@
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 8-22-2018
+Last updated: 9-11-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Bluebeam (formerly Project Atlas) - Dallas, TX<br/>
@@ -58,6 +58,7 @@ KubOS - Denton, TX<br/>
 Omnitracs - Dallas, TX<br/>
 Asset Panda - Frisco, TX<br/>
 ZenLeap - Celina, TX<br/>
+YellowFolder - Carollton, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Drive.ai - Frisco, TX<br/>
