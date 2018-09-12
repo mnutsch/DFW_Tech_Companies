@@ -1,8 +1,9 @@
 # DFW_Tech_Companies
 This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
-If you notice any companies missing or with incorrect info, then message me and I will update the list.<br/>
 
-Last updated: 9-11-2018
+If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
+
+Last updated: 9-12-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Bluebeam (formerly Project Atlas) - Dallas, TX<br/>
@@ -68,7 +69,7 @@ Inuit - Plano, TX<br/>
 Ooyala - Plano, TX<br/>
 Concur Technologies - Allen, TX<br/>
 Bloomreach - Dallas, TX<br/>
-Salesforce - ? <br/>
+Salesforce - ?<br/>
 Kimbia - ?<br/>
 Deltek - Richardson, TX<br/>
 Dealer.com - Dallas, TX<br/>
@@ -81,6 +82,7 @@ Marketron - North Richland Hills, TX<br/>
 CA Technologies - Plano, TX<br/>
 SAP<br/>
 Bloomreach<br/>
+Hathaway (wearehathway.com) - Southlake, TX<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Bottle Rocket - Dallas, TX <br/>
