@@ -36,7 +36,7 @@ DreamCars.com - Dallas, TX<br/>
 Tantrum Street - Dallas, TX<br/>
 Clear C2 - Coppell, TX<br/>
 RoboAmp - Addison, TX<br/>
-Robokind - ?<br/>
+Robokind - Dallas, TX<br/>
 MusicBed.com / FilmSupply - ?<br/>
 Veryable - Dallas, TX<br/>
 Texas Instruments - Dallas, TX<br/>
