@@ -62,6 +62,7 @@ ZenLeap - Celina, TX<br/>
 YellowFolder - Carollton, TX<br/>
 Solovis - Irving, TX</br>
 Vinli - Dallas, TX<br/>
+Robin Autopilot - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Drive.ai - Frisco, TX<br/>
