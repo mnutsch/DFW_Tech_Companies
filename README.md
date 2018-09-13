@@ -83,7 +83,6 @@ Marketron - North Richland Hills, TX<br/>
 CA Technologies - Plano, TX<br/>
 SAP<br/>
 Bloomreach<br/>
-Hathaway (wearehathway.com) - Southlake, TX<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Bottle Rocket - Dallas, TX <br/>
@@ -140,6 +139,7 @@ Seven Tablets - Dallas, TX<br/>
 ArtistUprising.com<br/>
 DeFak.to<br/>
 Credera - Addison, TX<br/>
+Hathaway (wearehathway.com) - Southlake, TX<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
