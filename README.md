@@ -142,6 +142,7 @@ ArtistUprising.com<br/>
 DeFak.to<br/>
 Credera - Addison, TX<br/>
 Hathaway (wearehathway.com) - Southlake, TX<br/>
+Thoughtworks - Dallas, TX<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
