@@ -221,6 +221,7 @@ SMU Incubator - Dallas<br/>
 Stadia Ventures - Frisco, TX<br/>
 Ensemble Coworking - Fort Worth, TX<br/>
 Stoke Coworking<br/>
+makerSeed - Dallas, TX<br/>
 
 <strong>VC Funds/Angel Groups</strong><br/>
 Cowtown Angels<br/>
