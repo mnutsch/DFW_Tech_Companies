@@ -146,6 +146,7 @@ Hathaway (wearehathway.com) - Southlake, TX<br/>
 Thoughtworks - Dallas, TX<br/>
 Projekt202 - Addision, TX<br/>
 iTrellis - Dallas, TX<br/>
+Slalom Consulting - Addison, TX<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
