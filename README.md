@@ -65,6 +65,24 @@ Vinli - Dallas, TX<br/>
 Robin Autopilot - Dallas, TX<br/>
 Valify - Frisco, TX<br/>
 Haxiot - Plano, TX<br/>
+Viverae - Dallas, TX<br/>
+Siepe Systems - Dallas, TX<br/>
+Aprima Medical Software - Richardson, TX<br/>
+Entouch - Richardson, TX<br/>
+Epacube - Fort Worth, TX<br/>
+Broadleaf - Plano, TX<br/>
+Id90travel.com - Southlake, TX<br/>
+Vpay - Plano, TX<br/>
+CyberlinkASP - Dallas, TX<br/>
+4Web Medical - Frisco, TX<br/>
+YourCause - Plano, TX<br/>
+Defi Solutions - Westlake, TX<br/>
+Enseo - Richardson, TX<br/>
+OrderMyGear.com - Dallas, TX<br/>
+Broadjump LLC - Dallas, TX<br/>
+Tripbam - Dallas, TX<br/>
+Newline Interactive - Plano, TX<br/>
+Zimperium - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
 Drive.ai - Frisco, TX<br/>
@@ -148,6 +166,7 @@ Thoughtworks - Dallas, TX<br/>
 Projekt202 - Addision, TX<br/>
 iTrellis - Dallas, TX<br/>
 Slalom Consulting - Addison, TX<br/>
+Avio Consulting - Addison, TX<br/>
 
 <strong>Video Game Companies:</strong><br/>
 3D Realms<br/>
