@@ -43,8 +43,8 @@ Texas Instruments - Dallas, TX<br/>
 Massergy Communications - Plano, TX<br/>
 PayCor - Frisco, TX<br/>
 Simpli.Fi - Fort Worth, TX<br/>
-Toyota Connected<br/>
-ParkHub.com - Dallas, TX (Deep Ellum<br/>
+Toyota Connected - Plano, TX<br/>
+ParkHub.com - Dallas, TX (Deep Ellum)<br/>
 Sigmetrix - McKinney, TX<br/>
 Lone Wolf Technologies - Dallas, TX<br/>
 Flywheel Building Intelligence - Dallas, TX<br/>
