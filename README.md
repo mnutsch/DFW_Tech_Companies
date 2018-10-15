@@ -6,7 +6,6 @@ If you notice any companies missing or with incorrect info, then submit a pull r
 Last updated: 10-15-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
-Bluebeam (formerly Project Atlas) - Dallas, TX<br/>
 Tyler Technologies - Plano, TX<br/>
 Sabre - Southlake, TX<br/>
 Axxess - Dallas, TX (North) <br/>
@@ -85,6 +84,7 @@ Newline Interactive - Plano, TX<br/>
 Zimperium - Dallas, TX<br/>
 
 <strong>Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW):</strong> <br/>
+Bluebeam (formerly Project Atlas) - Dallas, TX<br/>
 Drive.ai - Frisco, TX<br/>
 Oculus VR (Facebook)<br/>
 Dealertrack Technologies - Dallas, TX<br/>
