@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 10-12-2018
+Last updated: 10-15-2018
 
 <strong>Tech/SAAS/eCommerce Companies (HQ in DFW):</strong> <br/>
 Bluebeam (formerly Project Atlas) - Dallas, TX<br/>
@@ -106,6 +106,7 @@ CA Technologies - Plano, TX<br/>
 SAP<br/>
 Bloomreach<br/>
 McAfee - Plano, TX<br/>
+Avigilon (Motorola) - Dalla, TX<br/>
 
 <strong>Web Design/Mobile Dev/Digital Marketing Firms:</strong> <br/>
 Bottle Rocket - Dallas, TX <br/>
