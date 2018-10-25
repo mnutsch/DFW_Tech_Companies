@@ -299,6 +299,7 @@ Stoke Coworking||Co-working Spaces/Accelerators|
 Tech Fort Worth|Fort Worth, TX|Co-working Spaces/Accelerators|
 Tech Wildcatters||Co-working Spaces/Accelerators|
 TopDesk|Dallas, TX|Co-working Spaces/Accelerators|
+Union Worx|Arlington, TX|Co-working Spaces/Accelerators|
 WeWork||Co-working Spaces/Accelerators|
 Aquent||Tech Recruiters with Offices in DFW|
 Boss Group||Tech Recruiters with Offices in DFW|
