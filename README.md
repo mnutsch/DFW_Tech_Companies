@@ -134,7 +134,7 @@ CedarWaters Custom Software|Frsico, TX|Web Design/Mobile Dev/Digital Marketing F
 Chaotic Moon Studios|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Chetu Inx|Plano, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Copper Mobile|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
-CrateBind|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
+CrateBind|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|https://cratebind.com/
 Credera|Addison, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Data Bakery|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 DeFak.to||Web Design/Mobile Dev/Digital Marketing Firms|
