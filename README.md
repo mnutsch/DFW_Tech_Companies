@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 10-25-2018
+Last updated: 10-26-2018
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -134,6 +134,7 @@ CedarWaters Custom Software|Frsico, TX|Web Design/Mobile Dev/Digital Marketing F
 Chaotic Moon Studios|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Chetu Inx|Plano, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Copper Mobile|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
+CrateBind|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Credera|Addison, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Data Bakery|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 DeFak.to||Web Design/Mobile Dev/Digital Marketing Firms|
