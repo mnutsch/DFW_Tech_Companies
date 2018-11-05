@@ -79,9 +79,9 @@ Stone Eagle|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Tantrum Street|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Texas Instruments (TI)|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Toyota Connected|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Travelocity||Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Traxo|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://www.traxo.com/
 Tripbam|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Tripcase||Tech/SAAS/eCommerce Companies (HQ in DFW)|
 TripCase @ Sabre|Southlake, Texas|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Tyler Technologies|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Valify|Frisco, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
