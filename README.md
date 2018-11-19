@@ -25,6 +25,7 @@ Church Media Group|Keller, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Clear C2|Coppell, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 CyberlinkASP|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Defi Solutions|Westlake, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Dallas Data Corporation|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 DoctorLogic|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Door Inc. (doorhomes.com)|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 DreamCars.com|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
