@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 11-19-2018
+Last updated: 12-5-2018
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -247,6 +247,7 @@ Cancer Gene Connect|Dallas, TX|Non-tech Companies with Software Dev Departments 
 Canyon Ranch|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|
 Capital One|Plano, TX|Non-tech Companies with Software Dev Departments in DFW|
 CBRE|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|http://www.cbre.us/
+Charles Schwab NERD|Westlake, TX|Non-tech Companies with Software Dev Departments in DFW|
 Citi|Irving, Texas|Non-tech Companies with Software Dev Departments in DFW|
 Citigroup||Non-tech Companies with Software Dev Departments in DFW|
 Container Store|Coppell, TX|Non-tech Companies with Software Dev Departments in DFW|
