@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 12-5-2018
+Last updated: 12-19-2018
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -23,6 +23,7 @@ Broadleaf Commerce|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Charity Network|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://charitynetwork.com/
 Church Media Group|Keller, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Clear C2|Coppell, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Copart|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://www.copart.com/
 CyberlinkASP|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Defi Solutions|Westlake, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Dallas Data Corporation|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
