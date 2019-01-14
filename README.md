@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 12-19-2018
+Last updated: 1-13-2019
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -166,6 +166,7 @@ Oven Bits|Dallas, Texas|Web Design/Mobile Dev/Digital Marketing Firms|
 Panamplify|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|http://panamplify.com/
 Pariveda|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 PMG|Fort Worth, TX|Web Design/Mobile Dev/Digital Marketing Firms|
+Precocity|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Projekt202|Addison, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Reel FX||Web Design/Mobile Dev/Digital Marketing Firms|
 Ride for the Brand|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
