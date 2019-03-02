@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 1-13-2019
+Last updated: 3-2-2019
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -11,19 +11,24 @@ Name|Location|Category|Website
 Active Network|Dallas, Texas|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 ActivTrack|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Alkami|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-App Dynamics|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|http://www.appdynamics.com
+App Dynamics|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Aprima Medical Software|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-ARGO|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|http://argodata.com/
+ARGO|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Asset Panda|Frisco, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Automatize Logistics|Fort Worth, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Axxess|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Beck Technology|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Bestow Inc.|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Blinksale|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Broadjump LLC|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Broadleaf Commerce|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Charity Network|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://charitynetwork.com/
+CauseLabs|Fort Worth, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Charity Network|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Church Media Group|Keller, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Clear C2|Coppell, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Copart|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://www.copart.com/
+Copart|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Cox Automotive (KBB, DealerTrack)|Addison, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Curantis|Addison, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 CyberlinkASP|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Defi Solutions|Westlake, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Dallas Data Corporation|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
@@ -35,38 +40,41 @@ Elevate / Think Finance|Fort Worth, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)
 Enseo|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Entouch|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Epacube|Fort Worth, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-first.io|Dallas Remote|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://www.first.io/
+first.io|Dallas Remote|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Flywheel Building Intelligence|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Groove Jones|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Haxiot|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Hypergiant|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://www.hypergiant.com/
+Hypergiant|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Id90travel.com|Southlake, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Immosis LLC|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 InvoiceCare|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-KubOS|Denton, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|kubos.co
+KubOS|Denton, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Lanyon|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Lone Wold Technologies|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-MarketChorus/SpaceAgent|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|http://www.marketchorus.com/
+MarketChorus/SpaceAgent|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Massergy Communications|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Match.com|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 MineralWare.com|Fort Worth, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Mouser Electronics|Mansfield, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Munzee|McKinney, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-MusicBed.com / FilmSupply||Tech/SAAS/eCommerce Companies (HQ in DFW)|musicbed.com
+MusicBed.com / FilmSupply||Tech/SAAS/eCommerce Companies (HQ in DFW)|
+MVPIndex|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Newline Interactive|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 NoiseAware|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Omnitracs|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-One Technologies|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|https://onetechnologies.net/
+ONE Network|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+One Technologies|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 OrderMyGear.com|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 ParkHub.com|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 PayCor|Frisco, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 PestRoutes|McKinney, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Pivotal|Irving, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://pivotal.io/
+Pivotal|Irving, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 PostItPlayIt|Addison, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 R3Pi / Solera|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 RealPage|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 rewardStyle/LikeToKnowit.com|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Ride Alto|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Robin Autopilot|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|http://tryrobin.com
+Robin Autopilot|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 RoboAmp|Addison, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Robokind|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Sabre|Southlake, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
@@ -81,8 +89,8 @@ Stone Eagle|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Tantrum Street|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Texas Instruments (TI)|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Toyota Connected|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Travelocity||Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Traxo|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|https://www.traxo.com/
+Travelocity|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Traxo|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Tripbam|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 TripCase @ Sabre|Southlake, Texas|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Tyler Technologies|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
@@ -100,10 +108,10 @@ Amazon Web Services|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev 
 Avigilon (Motorola)|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Bloomreach|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Bluebeam|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
-BrainSpace (PureDiscovery)|Addison, Texas|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|https://www.brainspace.com/
+BrainSpace (PureDiscovery)|Addison, Texas|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 CA Technologies|Plano, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
-Call-Em-All|Frisco, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|https://www.call-em-all.com/
-Campus Labs|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|https://www.campuslabs.com/
+Call-Em-All|Frisco, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
+Campus Labs|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Concur Technologies|Allen, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Dealer.com|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Dealertrack Technologies|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
@@ -113,9 +121,9 @@ Electronic Data Systems (HP)|Plano, TX|Tech/SAAS/eCommerce Companies (HQ elsewhe
 Hotels.com||Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Intuit|Plano, Texas|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Kimbia||Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
-LivingSocial / Groupon|Dallas Remote Individuals|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|chrismo@clabs.org for more info
+LivingSocial / Groupon|Dallas Remote Individuals|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Marketron|North Richland Hills, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
-McAfee|Plano, TX||
+McAfee|Plano, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Oculus VR (Facebook)||Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Ooyala|Plano, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
 Paycom|Lewisville, TX|Tech/SAAS/eCommerce Companies (HQ elsewhere; dev offices in DFW)|
@@ -137,7 +145,7 @@ CedarWaters Custom Software|Frsico, TX|Web Design/Mobile Dev/Digital Marketing F
 Chaotic Moon Studios|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Chetu Inx|Plano, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Copper Mobile|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
-CrateBind|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|https://cratebind.com/
+CrateBind|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Credera|Addison, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Data Bakery|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 DeFak.to||Web Design/Mobile Dev/Digital Marketing Firms|
@@ -163,17 +171,16 @@ Magic Logix|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 MODassic Marketing|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Monkedia|Irving, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Oven Bits|Dallas, Texas|Web Design/Mobile Dev/Digital Marketing Firms|
-Panamplify|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|http://panamplify.com/
+Panamplify|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Pariveda|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 PMG|Fort Worth, TX|Web Design/Mobile Dev/Digital Marketing Firms|
-Precocity|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Projekt202|Addison, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Reel FX||Web Design/Mobile Dev/Digital Marketing Firms|
 Ride for the Brand|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Runner|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Seven Tablets|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Simple Media|Addison, TX|Web Design/Mobile Dev/Digital Marketing Firms|
-Skunk Worx Lab|Dallas & Austin|Web Design/Mobile Dev/Digital Marketing Firms|skunkworxlab.com
+Skunk Worx Lab|Dallas & Austin|Web Design/Mobile Dev/Digital Marketing Firms|
 Slalom||Web Design/Mobile Dev/Digital Marketing Firms|
 Slalom Consulting|Addison, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Social Factor|Fort Worth, TX|Web Design/Mobile Dev/Digital Marketing Firms|
@@ -181,11 +188,12 @@ Software Allies|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Techgene|Irving, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Tekzenit|Irving, Texas|Web Design/Mobile Dev/Digital Marketing Firms|
 The Old State|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
-The Richards Group/ClickHere (?)|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|https://richards.com/
+The Richards Group/ClickHere (?)|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Think Tree Studios|McKinney, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Thoughtworks|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Tonic3|Lewisville, TX|Web Design/Mobile Dev/Digital Marketing Firms|
-Universal Mind|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|https://www.universalmind.com/
+Universal Mind|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
+Warren Douglas|Fort Worth, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Ventuso LLC|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 Wve Labs|Dallas, TX|Web Design/Mobile Dev/Digital Marketing Firms|
 3D Realms||Video Game Companies|
@@ -212,7 +220,8 @@ Southpeak Games||Video Game Companies|
 Trptych Games||Video Game Companies|
 Axelum Tech||Small Startups (less than 5 employees) / Solo-preneurs|
 balancedmediatechnology.com||Small Startups (less than 5 employees) / Solo-preneurs|
-Budgit|Dallas|Small Startups (less than 5 employees) / Solo-preneurs|www.budgitapp.com
+Bluecar||Small Startups (less than 5 employees) / Solo-preneurs|
+Budgit|Dallas|Small Startups (less than 5 employees) / Solo-preneurs|
 cleanfinances.com||Small Startups (less than 5 employees) / Solo-preneurs|
 coinsource.net||Small Startups (less than 5 employees) / Solo-preneurs|
 cruisebe.com||Small Startups (less than 5 employees) / Solo-preneurs|
@@ -222,11 +231,12 @@ GivingGreat||Small Startups (less than 5 employees) / Solo-preneurs|
 GraphiteDocs.com||Small Startups (less than 5 employees) / Solo-preneurs|
 GravyGravy|Dallas, TX|Small Startups (less than 5 employees) / Solo-preneurs|
 gruupmeet.com||Small Startups (less than 5 employees) / Solo-preneurs|
+KeepUsPostd.com||Small Startups (less than 5 employees) / Solo-preneurs|
 LarkSpark Corp||Small Startups (less than 5 employees) / Solo-preneurs|
 LittleBeetleLabs||Small Startups (less than 5 employees) / Solo-preneurs|
 lobbyTV|Fort Worth, TX|Small Startups (less than 5 employees) / Solo-preneurs|
 MacServe.net||Small Startups (less than 5 employees) / Solo-preneurs|
-Modern Message|Dallas, Texas|Small Startups (less than 5 employees) / Solo-preneurs|modernmsg.com
+Modern Message|Dallas, Texas|Small Startups (less than 5 employees) / Solo-preneurs|
 ModoPayments|Richardson, TX|Small Startups (less than 5 employees) / Solo-preneurs|
 NickelCommerce|Dallas, TX|Small Startups (less than 5 employees) / Solo-preneurs|
 PicPocket|Dallas, TX|Small Startups (less than 5 employees) / Solo-preneurs|
@@ -235,56 +245,67 @@ SettleIt.org||Small Startups (less than 5 employees) / Solo-preneurs|
 Spacee||Small Startups (less than 5 employees) / Solo-preneurs|
 swirlds.com||Small Startups (less than 5 employees) / Solo-preneurs|
 7-Eleven Corp|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|
-ABSG|Frisco, TX|Non-tech Companies with Software Dev Departments in DFW|http://www.absg.com/
+ABSG|Frisco, TX|Non-tech Companies with Software Dev Departments in DFW|
 Accenture||Non-tech Companies with Software Dev Departments in DFW|
-ADT|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|http://www.adt.com
-American Airlines|Fort Worth, Texas|Non-tech Companies with Software Dev Departments in DFW|https://www.aa.com
-AT&T|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|https://www.att.com/
+Ace Express Cash|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|
+ADT|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
+American Airlines|Fort Worth, Texas|Non-tech Companies with Software Dev Departments in DFW|
+Apex Clearing|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
+AT&T|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
+Bamfi|Rockwall, TX|Non-tech Companies with Software Dev Departments in DFW|
 Bank of America|Plano, TX|Non-tech Companies with Software Dev Departments in DFW|
-BloomBoard|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|https://bloomboard.com/
-Blue Cross Blue Shield (C1 Innovation Lab)|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|http://c1innovationlab.com/
-Bonobos|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|www.bonobos.com
+BKD CPAs & Advisors|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
+BloomBoard|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
+Blue Cross Blue Shield (C1 Innovation Lab)|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
+Bonobos|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
 Borrowworks|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|
 Cancer Gene Connect|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
 Canyon Ranch|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|
 Capital One|Plano, TX|Non-tech Companies with Software Dev Departments in DFW|
-CBRE|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|http://www.cbre.us/
-Charles Schwab NERD|Westlake, TX|Non-tech Companies with Software Dev Departments in DFW|
+CBRE|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|
 Citi|Irving, Texas|Non-tech Companies with Software Dev Departments in DFW|
 Citigroup||Non-tech Companies with Software Dev Departments in DFW|
+Charles Schwab NERD|Westlake, TX|Non-tech Companies with Software Dev Departments in DFW|
+Collins Aerospace|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|
 Container Store|Coppell, TX|Non-tech Companies with Software Dev Departments in DFW|
-Copart|Dallas, Texas|Non-tech Companies with Software Dev Departments in DFW|https://www.copart.com
+Copart|Dallas, Texas|Non-tech Companies with Software Dev Departments in DFW|
+Fairway Mortgage|Carrolton, TX|Non-tech Companies with Software Dev Departments in DFW|
 Fidelity Investments|Westlake, TX|Non-tech Companies with Software Dev Departments in DFW|
 GM Financial|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|
-Goldman Sachs||Non-tech Companies with Software Dev Departments in DFW|
+Goldman Sachs (Marcus)||Non-tech Companies with Software Dev Departments in DFW|
+Hilton|Addison, TX|Non-tech Companies with Software Dev Departments in DFW|
 Home Depot||Non-tech Companies with Software Dev Departments in DFW|
 JC Penny||Non-tech Companies with Software Dev Departments in DFW|
 L3 Technologies|Arlington, TX|Non-tech Companies with Software Dev Departments in DFW|
 Lockheed Martin|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|
+Michaels Company|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|
 MoneyGram||Non-tech Companies with Software Dev Departments in DFW|
 Northropp Grumman|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|
 Pinnacle Property Management Services|Addison, TX|Non-tech Companies with Software Dev Departments in DFW|
-Power Home Remodeling Group|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|http://www.powerhrg.com
+Power Home Remodeling Group|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|
+Prime Lending|Dallas, TX (Plano)|Non-tech Companies with Software Dev Departments in DFW|
 Raytheon|Richardson, TX|Non-tech Companies with Software Dev Departments in DFW|
-ReadyRosie|Denton, TX|Non-tech Companies with Software Dev Departments in DFW|https://www.readyrosie.com/
+ReadyRosie|Denton, TX|Non-tech Companies with Software Dev Departments in DFW|
 Rexel|Addison, TX|Non-tech Companies with Software Dev Departments in DFW|
 Rockwell Collins|Richardson, TX|Non-tech Companies with Software Dev Departments in DFW|
 Samsung|Frisco, TX|Non-tech Companies with Software Dev Departments in DFW|
 SiriusXM Car division||Non-tech Companies with Software Dev Departments in DFW|
 Six Flags|Arlington, TX|Non-tech Companies with Software Dev Departments in DFW|
 Southwest.com|Dallas, Texas|Non-tech Companies with Software Dev Departments in DFW|
-Stitch Fix|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|https://www.stitchfix.com/
+Stitch Fix|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
 Thompson Reuters|Carrollton, Texas|Non-tech Companies with Software Dev Departments in DFW|
 ThyssenKrupp Elevator Americas|Frisco, TX|Non-tech Companies with Software Dev Departments in DFW|
 Toyota||Non-tech Companies with Software Dev Departments in DFW|
 USAA|Plano, TX|Non-tech Companies with Software Dev Departments in DFW|
+U.S. Concrete|Euless, TX|Non-tech Companies with Software Dev Departments in DFW|
 Verizon|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|
 Vista Proppants|Granbury, TX|Non-tech Companies with Software Dev Departments in DFW|
 Vpay|Plano, TX|Non-tech Companies with Software Dev Departments in DFW|
 Walmart (eCommerce)||Non-tech Companies with Software Dev Departments in DFW|
+Yum, Inc.|Plano, TX|Non-tech Companies with Software Dev Departments in DFW|
 Future Com||Computer Security Consultants|
 Lynx Technology Partners|https://lynxgrc.com/|Computer Security Consultants|
-StackPath|Dallas, TX|Computer Security Consultants|https://www.stackpath.com/
+StackPath|Dallas, TX|Computer Security Consultants|
 Zyston LLC||Computer Security Consultants|
 CyrusOne|Dallas, TX|Companies with Data Centers / Co-Location Facilities in DFW|
 Facebook|Fort Worth, TX|Companies with Data Centers / Co-Location Facilities in DFW|
@@ -297,7 +318,7 @@ Ensemble Coworking|Fort Worth, TX|Co-working Spaces/Accelerators|
 Health Wildcatters||Co-working Spaces/Accelerators|
 makerSeed|Dallas, TX|Co-working Spaces/Accelerators|
 Nod Coworking||Co-working Spaces/Accelerators|
-Penn Station||Co-working Spaces/Accelerators|http://www.penn-station.com/
+Penn Station||Co-working Spaces/Accelerators|
 REVTECH Accelerator||Co-working Spaces/Accelerators|
 SMU Incubator - Dallas|Dallas, TX|Co-working Spaces/Accelerators|
 Stadia Ventures|Frisco, TX|Co-working Spaces/Accelerators|
