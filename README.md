@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 3-2-2019
+Last updated: 3-11-2019
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -277,6 +277,7 @@ Hilton|Addison, TX|Non-tech Companies with Software Dev Departments in DFW|
 Home Depot||Non-tech Companies with Software Dev Departments in DFW|
 JC Penny||Non-tech Companies with Software Dev Departments in DFW|
 L3 Technologies|Arlington, TX|Non-tech Companies with Software Dev Departments in DFW|
+Leonardo DRS|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
 Lockheed Martin|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|
 Michaels Company|Irving, TX|Non-tech Companies with Software Dev Departments in DFW|
 MoneyGram||Non-tech Companies with Software Dev Departments in DFW|
