@@ -11,6 +11,7 @@ Name|Location|Category|Website
 Active Network|Dallas, Texas|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 ActivTrack|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Alkami|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Allegro Development|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 App Dynamics|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Aprima Medical Software|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 ARGO|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
