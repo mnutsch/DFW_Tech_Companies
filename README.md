@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 3-11-2019
+Last updated: 7-9-2019
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -100,6 +100,7 @@ Vinli|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Visual BI|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Viverae|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Woot.com (Amazon)|Carrolton, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Worksoft|Addison, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 YellowFolder|Carollton, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 YourCause|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 ZenLeap|Celina, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
