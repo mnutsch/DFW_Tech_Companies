@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 7-9-2019
+Last updated: 8-6-2019
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -296,6 +296,7 @@ SiriusXM Car division||Non-tech Companies with Software Dev Departments in DFW|
 Six Flags|Arlington, TX|Non-tech Companies with Software Dev Departments in DFW|
 Southwest.com|Dallas, Texas|Non-tech Companies with Software Dev Departments in DFW|
 Stitch Fix|Dallas, TX|Non-tech Companies with Software Dev Departments in DFW|
+Texas Specialty Sands, LLC|Fort Worth, TX|Non-tech Companies with Software Dev Departments in DFW|
 Thompson Reuters|Carrollton, Texas|Non-tech Companies with Software Dev Departments in DFW|
 ThyssenKrupp Elevator Americas|Frisco, TX|Non-tech Companies with Software Dev Departments in DFW|
 Toyota||Non-tech Companies with Software Dev Departments in DFW|
