@@ -51,7 +51,7 @@ Immosis LLC|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 InvoiceCare|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 KubOS|Denton, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Lanyon|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
-Lone Wold Technologies|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+Lone Wolf Technologies|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 MarketChorus/SpaceAgent|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Massergy Communications|Plano, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Match.com|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
