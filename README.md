@@ -3,7 +3,7 @@ This is a curated list of Tech Companies in the Dallas-Fort Worth metro.<br/>
 
 If you notice any companies missing or with incorrect info, then submit a pull request or message me and I will update the list.<br/>
 
-Last updated: 8-6-2019
+Last updated: 8-31-2020
 
 Name|Location|Category|Website
 ---|---|---|---
@@ -41,6 +41,7 @@ Elevate / Think Finance|Fort Worth, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)
 Enseo|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Entouch|Richardson, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Epacube|Fort Worth, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
+ExamSoft|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 first.io|Dallas Remote|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Flywheel Building Intelligence|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
 Groove Jones|Dallas, TX|Tech/SAAS/eCommerce Companies (HQ in DFW)|
